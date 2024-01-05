@@ -1,6 +1,6 @@
 ## Laravel Starter
 
-To provide a project startpoint, built with Laravel, Blade, Boostrap5 along with Mazer by Saugi
+To provide a project startpoint, built with Laravel, Blade, Boostrap5 along with Saugi's Mazer
 
 ### Features
 
