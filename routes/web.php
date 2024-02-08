@@ -15,10 +15,10 @@ use App\Http\Controllers\HomeController;
 |
 */
 
+Auth::routes();
+
 Route::get('/', function () {
     return view('auth.login');
 });
-
-Auth::routes();
 
 Route::get('/dashboard', [HomeController::class, 'index'])->name('dashboard');
